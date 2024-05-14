@@ -141,7 +141,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Space Planning Calculator</h1>
+      <h1>Warehouse Planning</h1>
       <ParametersInput
         inputParameters={inputParameters}
         setInputParameters={setInputParameters}
